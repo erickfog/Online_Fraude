@@ -41,8 +41,9 @@ Para utilizar este projeto, siga estas etapas:
 
 1. Clone o repositório para o seu ambiente local.
 2. Certifique-se de ter todas as dependências instaladas (Python, Jupyter Notebook, bibliotecas Python listadas no arquivo `requirements.txt`).
-3. Execute o notebook Jupyter `analysis.ipynb` para reproduzir a análise.
+3. Execute o notebook Jupyter `OnlineFraudDetection.ipynb` para reproduzir a análise.
 4. Explore os resultados e adapte o código conforme necessário para atender aos seus objetivos específicos.
+5. O desafio de engenharia de tados está na pasta test_data_eng e execute o arquivo eng_data.py ou utilize o eng_data_mobi2buy.ipynb(neste arquivo está especificadas todas as saídas). 
 
 ## Contribuições
 
