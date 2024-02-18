@@ -1,0 +1,112 @@
+[
+    {
+        "remote_host": "192.164.121.232",
+        "user_identity": "-",
+        "username": "-",
+        "date": 1581732003.0,
+        "request": "GET /manual/ HTTP/1.0",
+        "status_code": "200",
+        "response_time": "249854",
+        "referer": "http://localhost/svnview?repos=devel&rev=latest&root=SVNview/tmpl&list_revs=1",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36 Edge/18.18362"
+    },
+    {
+        "remote_host": "192.190.25.194",
+        "user_identity": "-",
+        "username": "-",
+        "date": 1588015083.0,
+        "request": "GET /svnview?repos=devel&rev=85&root=SVNview/tmpl&show=1 HTTP/1.1",
+        "status_code": "200",
+        "response_time": "249791",
+        "referer": "http://localhost/svnview?repos=devel&rev=latest&root=SVNview/tmpl&list_revs=1",
+        "user_agent": "Mozilla/5.0 (SMART-TV; Linux; Tizen 2.4.0) AppleWebkit/538.1 (KHTML, like Gecko) SamsungBrowser/1.1 TV Safari/538.1"
+    },
+    {
+        "remote_host": "192.243.252.148",
+        "user_identity": "-",
+        "username": "-",
+        "date": 1579676101.0,
+        "request": "GET /trac/trac_logo_mini.png HTTP/1.1",
+        "status_code": "200",
+        "response_time": "249755",
+        "referer": "http://localhost/svnview?repos=devel&rev=latest&root=SVNview/tmpl&list_revs=1",
+        "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_6_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Mobile/15E148 Safari/604.1"
+    },
+    {
+        "remote_host": "192.212.69.27",
+        "user_identity": "-",
+        "username": "-",
+        "date": 1587995164.0,
+        "request": "GET /svnview?repos=devel&rev=latest&root=SVNview/tmpl&list_revs=1 HTTP/1.1",
+        "status_code": "200",
+        "response_time": "249421",
+        "referer": "http://localhost/svnview?repos=devel&rev=latest&root=SVNview/tmpl&list_revs=1",
+        "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.1 Mobile/15E148 Safari/604.1"
+    },
+    {
+        "remote_host": "192.108.26.215",
+        "user_identity": "-",
+        "username": "-",
+        "date": 1580191380.0,
+        "request": "GET /svnview?repos=devel&rev=85&root=SVNview/tmpl/contents.tmpl HTTP/1.1",
+        "status_code": "200",
+        "response_time": "249369",
+        "referer": "http://localhost/svnview?repos=devel&rev=latest&root=SVNview/tmpl&list_revs=1",
+        "user_agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/79.0.3945.88 Safari/537.36"
+    },
+    {
+        "remote_host": "192.239.145.232",
+        "user_identity": "-",
+        "username": "-",
+        "date": 1583248685.0,
+        "request": "GET /svnview?repos=devel&rev=85&root=SVNview/tmpl&show=1 HTTP/1.1",
+        "status_code": "200",
+        "response_time": "249254",
+        "referer": "http://localhost/svnview?repos=devel&rev=latest&root=SVNview/tmpl&list_revs=1",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.170 Safari/537.36 OPR/53.0.2907.99"
+    },
+    {
+        "remote_host": "192.100.210.23",
+        "user_identity": "-",
+        "username": "-",
+        "date": 1588180682.0,
+        "request": "GET /manual/style/css/manual-print.css HTTP/1.1",
+        "status_code": "200",
+        "response_time": "249253",
+        "referer": "http://localhost/svnview?repos=devel&rev=latest&root=SVNview/tmpl&list_revs=1",
+        "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_3_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.5 Mobile/15E148 Safari/604.1"
+    },
+    {
+        "remote_host": "192.8.236.15",
+        "user_identity": "-",
+        "username": "-",
+        "date": 1582167724.0,
+        "request": "GET /trac/trac_logo_mini.png HTTP/1.1",
+        "status_code": "200",
+        "response_time": "249038",
+        "referer": "http://localhost/svnview?repos=devel&rev=latest&root=SVNview/tmpl&list_revs=1",
+        "user_agent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:47.0) Gecko/20100101 Firefox/47.3"
+    },
+    {
+        "remote_host": "192.90.148.90",
+        "user_identity": "-",
+        "username": "-",
+        "date": 1588057501.0,
+        "request": "GET /manual/style/css/manual-loose-100pc.css HTTP/1.1",
+        "status_code": "200",
+        "response_time": "248801",
+        "referer": "http://localhost/svnview?repos=devel&rev=latest&root=SVNview/tmpl&list_revs=1",
+        "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_3_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.5 Mobile/15E148 Safari/604.1"
+    },
+    {
+        "remote_host": "192.237.69.164",
+        "user_identity": "-",
+        "username": "-",
+        "date": 1589580605.0,
+        "request": "GET /trac/topbar_active.png HTTP/1.1",
+        "status_code": "200",
+        "response_time": "248646",
+        "referer": "http://localhost/svnview?repos=devel&rev=latest&root=SVNview/tmpl&list_revs=1",
+        "user_agent": "Mozilla/5.0 (SMART-TV; Linux; Tizen 2.4.0) AppleWebkit/538.1 (KHTML, like Gecko) SamsungBrowser/1.1 TV Safari/538.1"
+    }
+]
