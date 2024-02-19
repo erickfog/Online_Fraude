@@ -43,11 +43,7 @@ Para utilizar este projeto, siga estas etapas:
 2. Certifique-se de ter todas as dependências instaladas (Python, Jupyter Notebook, bibliotecas Python listadas no arquivo `requirements.txt`).
 3. Execute o notebook Jupyter `OnlineFraudDetection.ipynb` para reproduzir a análise.
 4. Explore os resultados e adapte o código conforme necessário para atender aos seus objetivos específicos.
-5. O desafio de engenharia de tados está na pasta test_data_eng e execute o arquivo eng_data.py ou utilize o eng_data_mobi2buy.ipynb(neste arquivo está especificadas todas as saídas). 
-
-## Contribuições
-
-Contribuições são bem-vindas! Se você encontrar problemas, tiver sugestões ou quiser contribuir com código, sinta-se à vontade para abrir uma issue ou enviar um pull request.
+5. O desafio de engenharia de tados está na pasta `test_data_eng` e execute o arquivo `eng_data.py` ou utilize o `eng_data_mobi2buy.ipynb`(este arquivo contém as saídas especificadas). 
 
 ## Licença
 
